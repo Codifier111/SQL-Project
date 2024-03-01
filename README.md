@@ -1,4 +1,5 @@
 # SQL-Project
+
 **Maven Movies SQL Project**
 
 This Maven Movies SQL Project is a database management system designed to handle information about movies, actors, directors, and more. It provides a comprehensive solution for managing a movie database efficiently using SQL.
